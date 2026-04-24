@@ -13,7 +13,7 @@ DM me on Discord: boom1401
 
 ![](https://komarev.com/ghpvc/?username=otsuliini)
 
-## Languages and Tools I use
+## ⚒️Languages and Tools I use
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div style="display:flex;gap:8px;align-items:center;">
@@ -31,10 +31,10 @@ DM me on Discord: boom1401
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" style="width:48px;height:48px;" />
 </div>
 
-## Hackathons I participated in: 
+## 🏆Hackathons I participated in: 
 AaltoAI hackathon 2025 [Project Repository](https://github.com/Covert-Studios/AaltoAI-hackathon-2025)
 
-## Socials: 
+## 💬Socials: 
 
 <a href="https://forem.com/otsuliini">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="Dev To" style="width:48px;height:48px;"/>
