@@ -31,6 +31,9 @@ DM me on Discord: boom1401
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" style="width:48px;height:48px;" />
 </div>
 
+## Hackathons I participated in: 
+AaltoAI hackathon 2025 [Project Repository]("https://github.com/Covert-Studios/AaltoAI-hackathon-2025")
+
 ## Socials: 
 
 <a href="https://forem.com/otsuliini">
@@ -42,3 +45,5 @@ DM me on Discord: boom1401
 <a href="https://x.com/booomisbest">
   <img src="https://cdn.simpleicons.org/x" alt="X (Twitter)" style="width:48px;height:48px;"/>
 </a>
+
+
