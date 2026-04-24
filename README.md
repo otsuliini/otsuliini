@@ -3,9 +3,6 @@
 ### A back-end software engineer learning the ropes. I'm passionate about computers, programming and all there is to the internet.
 - I'm currently learning how to build a programming language.
   
-<div align="center">
-  <a href="otso.reijonen@icloud.com">
-</div>
-  
+Email me: otso.reijonen@icloud.com
   
 ![](https://komarev.com/ghpvc/?username=otsuliini)
