@@ -29,13 +29,14 @@ Email me: otso.reijonen@icloud.com
 
 ## Socials: 
 
-<a href="https://forem.com/otsuliini">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="Dev To" style="width:48px;height:48px;"/>
-</a>
-<a href="https://stackoverflow.com/users/32658310/otso-reijonen">
-  <img src="https://cdn.simpleicons.org/stackoverflow" alt="Stack Overflow" style="width:48px;height:48px;"/>
-</a>
-<a href="https://x.com/booomisbest">
-  <img src="https://cdn.simpleicons.org/x" alt="X (Twitter)" style="width:48px;height:48px;"/>
-</a>
-
+<div style="display:flex;gap:8px;align-items:center;">
+  <a href="https://forem.com/otsuliini">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="Dev To" style="width:48px;height:48px;display:block;"/>
+  </a>
+  <a href="https://stackoverflow.com/users/32658310/otso-reijonen">
+    <img src="https://cdn.simpleicons.org/stackoverflow" alt="Stack Overflow" style="width:48px;height:48px;display:block;"/>
+  </a>
+  <a href="https://x.com/booomisbest">
+    <img src="https://cdn.simpleicons.org/x" alt="X (Twitter)" style="width:48px;height:48px;display:block;"/>
+  </a>
+</div>
