@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=3000&pause=1000&width=500&height=100&lines=Hi+I'm+Otso)](https://git.io/typing-svg)
 
-### A back-end software engineer learning the ropes. I'm passionate about computers, programming and all there is to the internet.
+## A back-end software engineer learning the ropes. I'm passionate about computers, programming and all there is to the internet.
+
+### What I'm Working on: 
 - I'm currently learning how to build a programming language.
+- I'm working on a password manager. 
+- I'm working on making a personal portfolio with astro. 
 
 
 Email me: otso.reijonen@icloud.com
