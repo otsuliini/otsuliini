@@ -36,7 +36,7 @@ DM me on Discord: boom1401
 </div>
 
 ## Tools I'm learning: 
-"C:\Users\otsor\OneDrive\Desktop\otsoreijonen.dev"
+<img src="https://cdn.simpleicons.org/astro" alt="Astro" width="48" height="48"/>
 
 ## 🏆Hackathons I participated in: 
 AaltoAI hackathon 2025 [Project Repository](https://github.com/Covert-Studios/AaltoAI-hackathon-2025)
