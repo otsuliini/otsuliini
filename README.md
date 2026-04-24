@@ -5,7 +5,7 @@
 Email me: otso.reijonen@icloud.com
 
 ## Languages and Tools I use
-![My Skills](https://skillicons.dev/icons?i=python, vscode, pr, ps, ai, git, cmake, c, ae, apple)
+
 
 
 ![](https://komarev.com/ghpvc/?username=otsuliini)
