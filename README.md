@@ -2,6 +2,8 @@
 
 ### A back-end software engineer learning the ropes. I'm passionate about computers, programming and all there is to the internet.
 - I'm currently learning how to build a programming language.
+
+
 Email me: otso.reijonen@icloud.com
 
 ## Languages and Tools I use
