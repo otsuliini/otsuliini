@@ -5,7 +5,13 @@
 Email me: otso.reijonen@icloud.com
 
 ## Languages and Tools I use
+<br>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c++, git, ai, ps, ae, pr, python" />
+</p>
+
+<hr>
 
 
 ![](https://komarev.com/ghpvc/?username=otsuliini)
