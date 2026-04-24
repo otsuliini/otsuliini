@@ -33,6 +33,6 @@ Email me: otso.reijonen@icloud.com
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="Dev To" style="width:48px;height:48px;"/>
 </a>
 <a href="https://stackoverflow.com/users/32658310/otso-reijonen">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  <img src="https://cdn.simpleicons.org/stackoverflow" alt="Stack Overflow" style="width:48px;height:48px;"/>
 </a>
 
