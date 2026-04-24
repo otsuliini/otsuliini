@@ -27,4 +27,9 @@ Email me: otso.reijonen@icloud.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" style="width:48px;height:48px;" />
 </div>
 
+## Socials: 
+
+[!Dev To]("https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/phosphor-regular/dev-to-logo-qpcrlrn40u74c7w0erexm.png/dev-to-logo-fjufinl96cu65k65ukdd8.png?_a=DATAiZAAZAA0")
+
+
 
