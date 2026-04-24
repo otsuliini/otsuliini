@@ -35,4 +35,7 @@ Email me: otso.reijonen@icloud.com
 <a href="https://stackoverflow.com/users/32658310/otso-reijonen">
   <img src="https://cdn.simpleicons.org/stackoverflow" alt="Stack Overflow" style="width:48px;height:48px;"/>
 </a>
+<a href="https://x.com/booomisbest">
+  <img src="https://cdn.simpleicons.org/x" alt="X (Twitter)" style="width:48px;height:48px;"/>
+</a>
 
