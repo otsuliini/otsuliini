@@ -8,7 +8,7 @@ Email me: otso.reijonen@icloud.com
 
 
 
-DM me on discord: boom1401
+DM me on Discord: boom1401
 
 
 ![](https://komarev.com/ghpvc/?username=otsuliini)
