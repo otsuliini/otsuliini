@@ -32,7 +32,7 @@ DM me on Discord: boom1401
 </div>
 
 ## Hackathons I participated in: 
-AaltoAI hackathon 2025 [Project Repository]("https://github.com/Covert-Studios/AaltoAI-hackathon-2025")
+AaltoAI hackathon 2025 [Project Repository](https://github.com/Covert-Studios/AaltoAI-hackathon-2025)
 
 ## Socials: 
 
