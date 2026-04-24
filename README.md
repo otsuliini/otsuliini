@@ -6,6 +6,9 @@
 
 Email me: otso.reijonen@icloud.com
 
+
+![](https://komarev.com/ghpvc/?username=otsuliini)
+
 ## Languages and Tools I use
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
@@ -24,4 +27,4 @@ Email me: otso.reijonen@icloud.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" style="width:48px;height:48px;" />
 </div>
 
-![](https://komarev.com/ghpvc/?username=otsuliini)
+
