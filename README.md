@@ -42,6 +42,8 @@ DM me on Discord: boom1401
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="48" />
 </p>
+
+
 ## 🏆Hackathons I participated in: 
 - AaltoAI Hackathon 2025
 
