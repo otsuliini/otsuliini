@@ -37,8 +37,10 @@ DM me on Discord: boom1401
 
 ## Tools I'm learning: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="48" height="48" />
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="48" />
+</p>
 ## 🏆Hackathons I participated in: 
 AaltoAI hackathon 2025 [Project Repository](https://github.com/Covert-Studios/AaltoAI-hackathon-2025)
 
