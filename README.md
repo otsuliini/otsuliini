@@ -37,6 +37,7 @@ DM me on Discord: boom1401
 
 ## Tools I'm learning: 
 <img src="https://cdn.simpleicons.org/astro" alt="Astro" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/threedotjs" alt="Three.js" width="48" height="48"/>
 
 ## 🏆Hackathons I participated in: 
 AaltoAI hackathon 2025 [Project Repository](https://github.com/Covert-Studios/AaltoAI-hackathon-2025)
