@@ -43,7 +43,7 @@ DM me on Discord: boom1401
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="48" />
 </p>
 ## 🏆Hackathons I participated in: 
-AaltoAI hackathon 2025 [Project Repository](https://github.com/Covert-Studios/AaltoAI-hackathon-2025)
+- AaltoAI Hackathon 2025
 
 ## 💬Socials: 
 
